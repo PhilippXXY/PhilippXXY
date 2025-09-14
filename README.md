@@ -1,8 +1,8 @@
 # Hi, I’m Philipp 👋
 
-🎓 **Industrial Engineering & Management student @ [Karlsruhe Institute of Technology (KIT)](https://www.kit.edu)**
+🎓 **Data Science Student @ [Queen Mary University of London (QMUL)](https://www.qmul.ac.uk)**
 
-🏎️ **Developer @ [Porsche R&D](https://github.com/porscheofficial)** — specialising in vehicle diagnostics & Diagnostic Trouble Codes (DTCs)
+🏎️ **Previously Developer @ [Porsche R&D](https://github.com/porscheofficial)** — specialising in vehicle diagnostics & Diagnostic Trouble Codes (DTCs)
 
 
 ## 🛠️ Preferred Tech Stack
