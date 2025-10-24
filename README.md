@@ -13,8 +13,8 @@
 
 ## Most Used Languages
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=philippxxy&layout=compact&theme=github_dark)
-
+![Languages Light](https://raw.githubusercontent.com/philippxxy/github-stats/master/generated/languages.svg#gh-dark-mode-only)
+![Languages Dark](https://raw.githubusercontent.com/philippxxy/github-stats/master/generated/languages.svg#gh-light-mode-only)
 
 ## Find Me Elsewhere
 
