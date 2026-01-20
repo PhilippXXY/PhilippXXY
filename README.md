@@ -14,6 +14,4 @@
 
 ## Find Me Elsewhere
 
-[![LinkedIn – Philipp Schmidt](https://img.shields.io/badge/LinkedIn-Philipp_Schmidt-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/philipp-schmidt-industry/)  
-
-[![ORCID – 0009-0006-4991-2192](https://img.shields.io/badge/ORCID-0009--0006--4991--2192-A6CE39?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/0009-0006-4991-2192)
+[CV](https://philipp-schmidt.online) | [LinkedIn](https://www.linkedin.com/in/philipp-schmidt-industry/) | [ORCID](https://orcid.org/0009-0006-4991-2192)
