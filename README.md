@@ -1,6 +1,7 @@
 # Hi, I’m Philipp
 
-**Data Science Student @ [Queen Mary University of London (QMUL)](https://www.qmul.ac.uk)**
+**Doctoral Researcher @ [Dr. Ing. h.c. F. Porsche AG](https://www.porsche.com)**
+**Ph.D. Student @ [Technical University of Munich](https://www.tum.de)**
 
 ![Languages Light](https://raw.githubusercontent.com/philippxxy/github-stats/master/generated/languages.svg#gh-dark-mode-only)
 ![Languages Dark](https://raw.githubusercontent.com/philippxxy/github-stats/master/generated/languages.svg#gh-light-mode-only)
