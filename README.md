@@ -2,7 +2,7 @@
 
 I am a doctoral researcher at [Porsche AG](https://www.porsche.com) and a PhD student at the [Technical University of Munich (TUM)](https://www.tum.de).
 
-My research focuses on applying deep learning to complex real-world problems, particularly in two areas.
+My research focuses on applying deep learning to real-world problems, particularly in two areas.
 - Root Cause Analysis — Identifying and diagnosing faults in distributed systems using logs, traces and other observability data, primarily through my research at [Porsche](https://www.porsche.com).
 - Acoustic Imaging — Exploring deep learning approaches to acoustic source localisation and imaging, with [Meta Reality Labs Research](https://research.facebook.com).
 
